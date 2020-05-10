@@ -1,4 +1,10 @@
-# MITREid Connect
+# Authentication & Authorization Tranformer
+
+This is a work in progress.  This is design an mechanism to convert alternative authenication mechanisms into OIDC.  There an custom auth mechanisms that don't easily integrate with COTS product.  This is designed to allow for easier integration.
+
+## WIP
+
+This is a work in progres.  Use at your own risk
 ---
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.mitre/openid-connect-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.mitre/openid-connect-parent) [![Travis CI](https://travis-ci.org/mitreid-connect/OpenID-Connect-Java-Spring-Server.svg?branch=master)](https://travis-ci.org/mitreid-connect/OpenID-Connect-Java-Spring-Server)  [![Codecov](https://codecov.io/github/mitreid-connect/OpenID-Connect-Java-Spring-Server/coverage.svg?branch=master)](https://codecov.io/github/mitreid-connect/OpenID-Connect-Java-Spring-Server)
